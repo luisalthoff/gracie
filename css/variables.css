@@ -1,0 +1,15 @@
+:root {
+  --color-bg: #e8e2d5;
+  --color-card: #d5c3a3;
+  --color-text: #666663;
+  --color-active: #df8176;
+  --color-alert: #dd5f57;
+  --color-white: #ffffff;
+  --color-check: #ffd21a;
+
+  --radius: 18px;
+  --gap: 18px;
+  --side-padding: 28px;
+
+  --font-main: Arial, sans-serif;
+}
